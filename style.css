@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', 'sans-serif';
+    background-color: black;
+}
+
+input{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    color: rgb(171, 241, 6);
+    text-align: center;
+}
+
+.div-left{
+    text-align: center;
+}
+
+.div-rigth{
+    text-align: center;
+}
+
+.div-left img {
+    width: 300px;
+    height: 300px;
+    border-radius: 100px;
+}
+
+.div-rigth img {
+    width: 20%;
+    height: 20%;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h5{
+
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+
+p {
+    color: wheat;
+}
+
+
+ul {
+    margin-top: 0px;
+}
+
+li {
+    margin: 50px ;
+    list-style: none;
+
+}
+
+a {
+    color: wheat;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+i {
+    color: wheat;
+    width: 30px;
+}
+
+h1 {
+    color: wheat;
+    font-size: 17px;
+    text-align: center;
+    margin: 20px;
+}
+
+.contact{
+    margin-top: 50px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.outros-contatos{
+    margin-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
